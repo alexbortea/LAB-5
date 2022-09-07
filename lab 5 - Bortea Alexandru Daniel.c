@@ -1,3 +1,12 @@
+/*Implementați și testați următoarele funcții
+1. (2p) o functie care transforma un graf reprezentat prin matrice de adiacenta in reprezentarea cu
+lista de adiacenta
+2. (3p) funcții pentru testarea existenței unei muchii de la x la y (pentru fiecare reprezentare in
+parte)
+3. (3p) funcții pentru afișarea muchiilor incidente cu x (pentru fiecare reprezentare in parte)
+4. (1p) functie pentru calculul matricei drumurilor - Algoritmul Roy – Warshall - pentru
+reprezentare cu matrice de adiacență*/
+
 #include <stdio.h>
 #include <stdlib.h>
 struct ListNode
